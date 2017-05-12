@@ -19,6 +19,10 @@ Central: none sleep version same code
 https://github.com/kuc-arc-f/ble_adv_bridge
 
 /client_bridge
+
+
+<img src="https://raw.githubusercontent.com/kuc-arc-f/screen-img/master/esp32/ss-BLE-bridge-0501a.png" style="max-width : 100%; max-height: 600px;">
+
 ***
 
 ## thanks
